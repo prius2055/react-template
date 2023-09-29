@@ -25,7 +25,7 @@
 
 # 📖 App <a name="about-project"></a>
 
-This project is created with react js👌 and Redux as a state managment library.
+This is a template for creating react applications. It save you the time of having to build from scratch. The 30mins or more required to set up the react and linters for your next project can by used instead to build the main application. All you need to do is create your new repository from this template, clone and install dependencies.This project is created with react js👌.
 
 **The Currency Metric App React project** i
 
@@ -99,6 +99,10 @@ To run the project:
 
 ```sh
   use git bash to open in Vs code
+```
+
+```sh
+  npm install
 ```
 
 ### Run tests
