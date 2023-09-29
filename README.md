@@ -47,13 +47,6 @@ This is a template for creating react applications. It save you the time of havi
   </ul>
 </details>
 
-<details>
-  <summary>Redux</summary>
-  <ul>
-    <li><a href="#">Redux</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -141,7 +134,7 @@ to check linter errors.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/prius2055/react-template/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
